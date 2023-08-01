@@ -1,0 +1,10 @@
+main
+	__CC2DW
+		____DoICP
+	manualTraffic
+		__CC2DW
+			____DoICP
+	autoTraffic
+		__CC2DW
+			____DoICP
+interrupt
